@@ -1,0 +1,2 @@
+export const mintContractAddress = "0x11f77D4F975604117Cb428eee8a0B4fcB7eCC7D2"
+export const saleContractAddress = "0xe357E0dC1FE2AF70CCe756bd253AdEBb967CfD28"
